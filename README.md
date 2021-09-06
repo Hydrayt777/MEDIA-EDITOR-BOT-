@@ -10,7 +10,7 @@
 * API_HASH      - From my.telegram.org (or @UseTGXBot)
 
 CREDITS
-
+https://github.com/Hydrayt777/MEDIA-EDITOR-BOT-.git
 
 * [Dan](https://telegram.dog/haskell) for his [Pyrogram Library](https://github.com/pyrogram/pyrogram)
 
